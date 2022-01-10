@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images.clipart.com/images-clipart/thw/thw14/AF/animations/people_a_l/businessmen_women/toy_businessman_morning_coffee/toy_businessman_morning_coffee_lg_wm.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://clipart-library.com/clipart/279555.htm">
 </div>
   
   ##
