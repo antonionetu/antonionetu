@@ -1,4 +1,3 @@
-## Opa!  Eae, beleza?
 <!--credits for Rafa Ballerini-->
 <div align="center">
   <a href="https://github.com/antonionetodeveloper">
