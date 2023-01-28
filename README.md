@@ -1,7 +1,7 @@
 <!--credits for Rafa Ballerini-->
  <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=maykeesa&theme=dark&mode=weekly"/>
- <img height="180em" src="https://api.githubtrends.io/user/svg/MaykeESA/langs?time_range=one_year&compact=True&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=antonionetodeveloper&theme=highcontrast&mode=weekly"/>
+ <img height="180em" src="https://api.githubtrends.io/user/svg/antonionetodeveloper/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark"/>
 </div>
 
 ##
