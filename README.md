@@ -1,35 +1,37 @@
  <div align="center">
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=antonionetu&theme=radical&border_radius=6&background=45%2C000000%2C130F40" alt="GitHub Streak" />
-  <img height="200px" alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonionetu&count_private=true&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=6&langs_count=10&hide=html,swift,kotlin,objective-c,c++,c-make,markdown"/>
+  <img height="200px" alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonionetu&count_private=true&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=6&langs_count=10&hide=html,markdown,javascript,css,powershell,batchfile,makefile"/>
 </div>
 
-##
+<hr>
 
 <div align="center" display:"flex">
   <div>
-    <code><img width="5%" src="https://i.ibb.co/dKMXk7G/nextjs-svgrepo-com-1.png"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/452075/node-js.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/373554/django.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/354259/react.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/374175/vue.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/353751/flutter.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/452092/react.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/373848/mysql.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/439231/mongodb.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/373535/css.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/374118/tailwind.svg"></code>
-  </div>
-  <div>
-    <code><img width="5%" src="https://i.ibb.co/WgvN9xt/rust-svgrepo-com.png"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/353795/go.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/452091/python.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/349540/typescript.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/353423/arduino.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/448236/linux.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/452192/docker.svg"></code>
+  </div>
+  <div>
+    <code><img width="5%" src="https://www.svgrepo.com/show/452091/python.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/349540/typescript.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/353631/dart.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/452183/cpp.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/374056/rust.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/353795/go.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/374088/solidity.svg"></code>
+    <code><img width="5%" src="https://www.svgrepo.com/show/353423/arduino.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/373623/git.svg"></code>
   </div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:'50px';" src="https://cdn-icons-png.flaticon.com/512/619/619054.png?w=740&t=st=1674931409~exp=1674932009~hmac=6b38b153315f41d5dbaf146c">
   </div>
  
- ##
+<hr>
 
  <div>
   <picture >
