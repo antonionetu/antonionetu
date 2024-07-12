@@ -9,7 +9,6 @@
   <div>
     <code><img width="5%" src="https://www.svgrepo.com/show/373554/django.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/374175/vue.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/353751/flutter.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/452092/react.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/373848/mysql.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/439231/mongodb.svg"></code>
@@ -20,7 +19,6 @@
   <div>
     <code><img width="5%" src="https://www.svgrepo.com/show/452091/python.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/349540/typescript.svg"></code>
-    <code><img width="5%" src="https://www.svgrepo.com/show/353631/dart.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/452183/cpp.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/374056/rust.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/353795/go.svg"></code>
