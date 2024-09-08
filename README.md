@@ -14,7 +14,7 @@
     <code><img width="5%" src="https://www.svgrepo.com/show/452192/docker.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/448266/aws.svg"></code>
     <code><img width="5%" src="https://www.svgrepo.com/show/448236/linux.svg"></code>
-    <code><img width="5%" src="https://pouch.jumpshare.com/preview/fSudhRO2IZtVC90RTMUGUv9iuwoNb_xN_-3fxOgge1PtBW4wemRzI_kfybW4nsnX15-M8C_l0cYn_qU1jBhKXE0gO4yG0Ad8YoJDFyYlESg"></code>
+    <code><img width="5%" src="https://pouch.jumpshare.com/preview/HbThpZHYd6ViIW5Tb1RPR6_-J7JpkYO3awobMZVV4eLcvkW9fzxgyMktIe49ZOeRDfMO5sQi41FI15ck8RHMD6FMt0wxuCThkCfb5UDObZM"></code>
   </div>
   <div>
     <code><img width="5%" src="https://www.svgrepo.com/show/452091/python.svg"></code>
